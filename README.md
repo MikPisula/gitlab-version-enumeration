@@ -101,3 +101,7 @@ patch level down to a small, explicit set of candidates instead of leaving you w
 
 I've currently created this tool to gauge if there is significant interest in this area. If it proves to be something that others would also find helpful,
 I will also generate relevant tag information for GitLab EE.
+
+## Keywords
+
+`gitlab` `gitlab-ce` `gitlab version detection` `gitlab version checker` `gitlab version enumeration` `version-detection` `version-enumeration` `fingerprinting` `reconnaissance` `osint` `vulnerability-assessment` `blue-team` `security-tool` `cve` `pentesting` `python` `docker`
