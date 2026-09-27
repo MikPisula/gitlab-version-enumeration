@@ -7,10 +7,15 @@ This code is released under the 0BSD license, and can be used/copied freely with
 
 ## Quick start
 ```bash
+# download script itself alongside the known hash dataset
 wget https://raw.githubusercontent.com/MikPisula/gitlab-version-enumeration/main/enumerate-gitlab-version.py
 wget https://raw.githubusercontent.com/MikPisula/gitlab-version-enumeration/main/data/gitlab-file-hashes.json
 
-python enumerate-gitlab-version.py http://localhost:80/
+# script fetches sign-in page on its own
+python enumerate-gitlab-version.py --server http://localhost:80/
+
+# script uses pre-downloaded sign-in page (useful for WAF/CDN bypassing)
+python enumerate-gitlab-version.py --file sign_in.html
 ```
 
 ## How this works
@@ -45,7 +50,13 @@ of the service can know what version is running. Of course this doesn't really m
 
 Security through obscurity does not work.
 
+## WAF/CDN restrictions
+
+If the GitLab instance you're interested in is behind a bot protection mechanism, you can simply download the sign-in page locally, and run the script with the `--file` parameter.
+
 ## Overlapping hashes and accuracy
+
+Currently, only releases above 16.x.x are fully mapped throughout major.minor.patch releases. All previous releases only have major.minor hashes recorded. In practice, this means that patch releases between those major.minor releases may not be identified by the script correctly. Additionally, some 8.x releases are missing as they did not deploy correctly in Docker due to having outdated manifests.
 
 Since a release's fingerprint is just the set of hashed asset filenames on its sign-in page, two different
 GitLab releases produce an *identical* fingerprint whenever neither one touched a single compiled

@@ -32,50 +32,61 @@ def find_hashed_strings(sign_in_page):
 
 def main():
     parser = argparse.ArgumentParser(description='Identifies remote GitLab CE version based on sign in page hashed resource strings')
-    parser.add_argument("server", help="Remote GitLab server host")
+    source_group = parser.add_mutually_exclusive_group(required=True)
+    source_group.add_argument("--server", help="Remote GitLab server host to fetch the sign in page from")
+    source_group.add_argument("--file", help="Local, already-downloaded copy of the sign in page (e.g. saved from a browser, to bypass a CDN/WAF/bot protection)")
     parser.add_argument("-k", "--insecure", action='store_true')
     parser.add_argument('-v', "--verbose", action='store_true')
 
     args = parser.parse_args()
 
-    stripped_server = args.server.rstrip("/")
-
-    if stripped_server.endswith("/users/sign_in"):
-        server = stripped_server
-    else:
-        server = f'{stripped_server}/users/sign_in'
-
-    # default to http:// unless specified in url
-    if not args.server.startswith("http"):
-        server = f"http://{server}"
-
-    if args.insecure:
-        ssl_context = ssl._create_unverified_context()
-    else:
-        ssl_context = ssl.create_default_context()
-
     print("Gitlab CE Version enumeration script")
 
-    print(f"[+] Fetching '{server}'")
+    if args.file:
+        print(f"[+] Reading '{args.file}'")
 
-    try:
-        with urllib.request.urlopen(server, context=ssl_context) as sign_in_response:
-            status_code = sign_in_response.getcode()
+        try:
+            sign_in_page = Path(args.file).read_text()
+        except Exception as e:
+            print(f'[-] Failed to read sign in page file: {e}')
+            exit(1)
+    else:
+        stripped_server = args.server.rstrip("/")
 
-            if status_code == 200:
-                print(f'[+] Received status code 200')
-            else:
-                print(f"[-] Received status code {status_code}")
-                exit(1)
+        if stripped_server.endswith("/users/sign_in"):
+            server = stripped_server
+        else:
+            server = f'{stripped_server}/users/sign_in'
 
-            sign_in_page = sign_in_response.read().decode('utf-8')
+        # default to http:// unless specified in url
+        if not args.server.startswith("http"):
+            server = f"http://{server}"
 
-    except urllib.error.HTTPError as e:
-        print(f"[-] Received status code {e.code}")
-        exit(1)
-    except Exception as e:
-        print(f'[-] Failed to fetch server sign in page: {e}')
-        exit(1)
+        if args.insecure:
+            ssl_context = ssl._create_unverified_context()
+        else:
+            ssl_context = ssl.create_default_context()
+
+        print(f"[+] Fetching '{server}'")
+
+        try:
+            with urllib.request.urlopen(server, context=ssl_context) as sign_in_response:
+                status_code = sign_in_response.getcode()
+
+                if status_code == 200:
+                    print(f'[+] Received status code 200')
+                else:
+                    print(f"[-] Received status code {status_code}")
+                    exit(1)
+
+                sign_in_page = sign_in_response.read().decode('utf-8')
+
+        except urllib.error.HTTPError as e:
+            print(f"[-] Received status code {e.code}")
+            exit(1)
+        except Exception as e:
+            print(f'[-] Failed to fetch server sign in page: {e}')
+            exit(1)
 
     hashed_strings = find_hashed_strings(sign_in_page)
     print(f"[+] Found {len(hashed_strings)} hashed asset strings in response")
