@@ -1,0 +1,3132 @@
+{
+  "8.0": {
+    "tag": "8.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.0.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.1": {
+    "tag": "8.1.2-ce.0",
+    "image": "gitlab/gitlab-ce:8.1.2-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.2": {
+    "tag": "8.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.2.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.3": {
+    "tag": "8.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.3.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.4": {
+    "tag": "8.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.4.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "16.2": {
+    "tag": "16.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 162.3
+  },
+  "11.11": {
+    "tag": "11.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.11.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 99.4
+  },
+  "17.0": {
+    "tag": "17.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 172.5
+  },
+  "19.2.4": {
+    "tag": "19.2.4-ce.0",
+    "image": "gitlab/gitlab-ce:19.2.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 193.0
+  },
+  "19.2.5": {
+    "tag": "19.2.5-ce.0",
+    "image": "gitlab/gitlab-ce:19.2.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 197.0
+  },
+  "19.2.6": {
+    "tag": "19.2.6-ce.0",
+    "image": "gitlab/gitlab-ce:19.2.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 190.3
+  },
+  "19.2.7": {
+    "tag": "19.2.7-ce.0",
+    "image": "gitlab/gitlab-ce:19.2.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 191.7
+  },
+  "19.3.0": {
+    "tag": "19.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:19.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 208.2
+  },
+  "19.3.1": {
+    "tag": "19.3.1-ce.0",
+    "image": "gitlab/gitlab-ce:19.3.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 199.7
+  },
+  "19.3.2": {
+    "tag": "19.3.2-ce.0",
+    "image": "gitlab/gitlab-ce:19.3.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 216.8
+  },
+  "19.3.3": {
+    "tag": "19.3.3-ce.0",
+    "image": "gitlab/gitlab-ce:19.3.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 196.3
+  },
+  "19.4.0": {
+    "tag": "19.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:19.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 232.0
+  },
+  "19.4.1": {
+    "tag": "19.4.1-ce.0",
+    "image": "gitlab/gitlab-ce:19.4.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 193.5
+  },
+  "8.5": {
+    "tag": "8.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.5.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.6": {
+    "tag": "8.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.6.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.7": {
+    "tag": "8.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.7.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.8": {
+    "tag": "8.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.8.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.9": {
+    "tag": "8.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 57.4
+  },
+  "8.10": {
+    "tag": "8.10.0-ce.1",
+    "image": "gitlab/gitlab-ce:8.10.0-ce.1",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.11": {
+    "tag": "8.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.11.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.12": {
+    "tag": "8.12.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.12.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.13": {
+    "tag": "8.13.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.13.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.14": {
+    "tag": "8.14.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.14.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.15": {
+    "tag": "8.15.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.15.0-ce.0",
+    "status": "failed",
+    "error": "pull failed",
+    "detail": "Error response from daemon: not implemented: media type \"application/vnd.docker.distribution.manifest.v1+prettyjws\" is no longer supported since containerd v2.1, please rebuild the image as \"application/vnd.docker.distribution.manifest.v2+json\" or \"application/vnd.oci.image.manifest.v1+json\"\n"
+  },
+  "8.16": {
+    "tag": "8.16.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.16.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 56.6
+  },
+  "8.17": {
+    "tag": "8.17.0-ce.0",
+    "image": "gitlab/gitlab-ce:8.17.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 57.2
+  },
+  "9.0": {
+    "tag": "9.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:9.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 64.6
+  },
+  "9.1": {
+    "tag": "9.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:9.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 68.5
+  },
+  "9.2": {
+    "tag": "9.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:9.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 64.0
+  },
+  "9.3": {
+    "tag": "9.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:9.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 66.3
+  },
+  "9.4": {
+    "tag": "9.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:9.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 80.8
+  },
+  "9.5": {
+    "tag": "9.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:9.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 120.3
+  },
+  "10.0": {
+    "tag": "10.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 74.2
+  },
+  "10.1": {
+    "tag": "10.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 80.8
+  },
+  "10.2": {
+    "tag": "10.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 78.8
+  },
+  "10.3": {
+    "tag": "10.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 85.4
+  },
+  "10.4": {
+    "tag": "10.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 79.6
+  },
+  "10.5": {
+    "tag": "10.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 81.0
+  },
+  "10.6": {
+    "tag": "10.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 78.7
+  },
+  "10.7": {
+    "tag": "10.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 79.6
+  },
+  "10.8": {
+    "tag": "10.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:10.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 81.5
+  },
+  "11.0": {
+    "tag": "11.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 79.5
+  },
+  "11.1": {
+    "tag": "11.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 86.2
+  },
+  "11.2": {
+    "tag": "11.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 85.5
+  },
+  "11.3": {
+    "tag": "11.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 84.8
+  },
+  "11.4": {
+    "tag": "11.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 85.1
+  },
+  "11.5": {
+    "tag": "11.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 81.7
+  },
+  "11.6": {
+    "tag": "11.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 81.7
+  },
+  "11.7": {
+    "tag": "11.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 83.7
+  },
+  "11.8": {
+    "tag": "11.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 89.3
+  },
+  "11.9": {
+    "tag": "11.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 91.4
+  },
+  "11.10": {
+    "tag": "11.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:11.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.8
+  },
+  "12.0": {
+    "tag": "12.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 102.2
+  },
+  "12.1": {
+    "tag": "12.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 108.2
+  },
+  "12.2": {
+    "tag": "12.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 106.6
+  },
+  "12.3": {
+    "tag": "12.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 107.4
+  },
+  "12.4": {
+    "tag": "12.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 102.8
+  },
+  "12.5": {
+    "tag": "12.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 110.0
+  },
+  "12.6": {
+    "tag": "12.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 115.2
+  },
+  "12.7": {
+    "tag": "12.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 103.9
+  },
+  "12.8": {
+    "tag": "12.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 105.2
+  },
+  "12.9": {
+    "tag": "12.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 112.1
+  },
+  "12.10": {
+    "tag": "12.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:12.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 117.5
+  },
+  "13.0": {
+    "tag": "13.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 121.0
+  },
+  "13.1": {
+    "tag": "13.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 121.3
+  },
+  "13.2": {
+    "tag": "13.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 119.4
+  },
+  "13.3": {
+    "tag": "13.3.0-ce.1",
+    "image": "gitlab/gitlab-ce:13.3.0-ce.1",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 129.1
+  },
+  "13.4": {
+    "tag": "13.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 129.5
+  },
+  "13.5": {
+    "tag": "13.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 135.9
+  },
+  "13.6": {
+    "tag": "13.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 128.6
+  },
+  "13.7": {
+    "tag": "13.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 127.0
+  },
+  "13.8": {
+    "tag": "13.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 127.9
+  },
+  "13.9": {
+    "tag": "13.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 128.0
+  },
+  "13.10": {
+    "tag": "13.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 127.0
+  },
+  "13.11": {
+    "tag": "13.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.11.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 138.0
+  },
+  "13.12": {
+    "tag": "13.12.0-ce.0",
+    "image": "gitlab/gitlab-ce:13.12.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 169.1
+  },
+  "14.0": {
+    "tag": "14.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 132.6
+  },
+  "14.1": {
+    "tag": "14.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 123.4
+  },
+  "14.2": {
+    "tag": "14.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 138.5
+  },
+  "14.3": {
+    "tag": "14.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 140.0
+  },
+  "14.4": {
+    "tag": "14.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 140.2
+  },
+  "14.5": {
+    "tag": "14.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 139.2
+  },
+  "14.6": {
+    "tag": "14.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 140.1
+  },
+  "14.7": {
+    "tag": "14.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 139.3
+  },
+  "14.8": {
+    "tag": "14.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 145.7
+  },
+  "14.9": {
+    "tag": "14.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 152.4
+  },
+  "14.10": {
+    "tag": "14.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:14.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 147.9
+  },
+  "15.0": {
+    "tag": "15.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 150.4
+  },
+  "15.1": {
+    "tag": "15.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 146.6
+  },
+  "15.2": {
+    "tag": "15.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 147.6
+  },
+  "15.3": {
+    "tag": "15.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 146.3
+  },
+  "15.4": {
+    "tag": "15.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 149.7
+  },
+  "15.5": {
+    "tag": "15.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 152.1
+  },
+  "15.6": {
+    "tag": "15.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 152.1
+  },
+  "15.7": {
+    "tag": "15.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 151.0
+  },
+  "15.8": {
+    "tag": "15.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 149.5
+  },
+  "15.9": {
+    "tag": "15.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 149.7
+  },
+  "15.10": {
+    "tag": "15.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 152.3
+  },
+  "15.11": {
+    "tag": "15.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:15.11.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 162.3
+  },
+  "16.0": {
+    "tag": "16.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 145.8
+  },
+  "16.1": {
+    "tag": "16.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 151.9
+  },
+  "16.3": {
+    "tag": "16.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.6
+  },
+  "16.4": {
+    "tag": "16.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 155.0
+  },
+  "16.5": {
+    "tag": "16.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 159.8
+  },
+  "16.6": {
+    "tag": "16.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.8
+  },
+  "16.7": {
+    "tag": "16.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 150.3
+  },
+  "16.8": {
+    "tag": "16.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 148.9
+  },
+  "16.9": {
+    "tag": "16.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 162.2
+  },
+  "16.10": {
+    "tag": "16.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.6
+  },
+  "16.11": {
+    "tag": "16.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 143.4
+  },
+  "17.0.0": {
+    "tag": "17.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 149.1
+  },
+  "17.0.1": {
+    "tag": "17.0.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.0
+  },
+  "17.0.2": {
+    "tag": "17.0.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.0
+  },
+  "17.0.3": {
+    "tag": "17.0.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 151.4
+  },
+  "17.0.4": {
+    "tag": "17.0.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.1
+  },
+  "17.0.5": {
+    "tag": "17.0.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.1
+  },
+  "17.0.6": {
+    "tag": "17.0.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.8
+  },
+  "17.0.7": {
+    "tag": "17.0.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.2
+  },
+  "17.0.8": {
+    "tag": "17.0.8-ce.0",
+    "image": "gitlab/gitlab-ce:17.0.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.9
+  },
+  "17.1.0": {
+    "tag": "17.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.7
+  },
+  "17.1.1": {
+    "tag": "17.1.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.2
+  },
+  "17.1.2": {
+    "tag": "17.1.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.8
+  },
+  "17.1.3": {
+    "tag": "17.1.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.2
+  },
+  "17.1.4": {
+    "tag": "17.1.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 174.3
+  },
+  "17.1.6": {
+    "tag": "17.1.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.0
+  },
+  "17.1.7": {
+    "tag": "17.1.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.6
+  },
+  "17.1.8": {
+    "tag": "17.1.8-ce.0",
+    "image": "gitlab/gitlab-ce:17.1.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 155.0
+  },
+  "17.2.0": {
+    "tag": "17.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 162.4
+  },
+  "17.2.1": {
+    "tag": "17.2.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.1
+  },
+  "17.2.2": {
+    "tag": "17.2.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.3
+  },
+  "17.2.4": {
+    "tag": "17.2.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.5
+  },
+  "17.2.5": {
+    "tag": "17.2.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.5
+  },
+  "17.2.7": {
+    "tag": "17.2.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 173.7
+  },
+  "17.2.8": {
+    "tag": "17.2.8-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 171.7
+  },
+  "17.2.9": {
+    "tag": "17.2.9-ce.0",
+    "image": "gitlab/gitlab-ce:17.2.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 153.7
+  },
+  "17.3.0": {
+    "tag": "17.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.6
+  },
+  "17.3.1": {
+    "tag": "17.3.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.8
+  },
+  "17.3.2": {
+    "tag": "17.3.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 178.4
+  },
+  "17.3.3": {
+    "tag": "17.3.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.6
+  },
+  "17.3.4": {
+    "tag": "17.3.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.0
+  },
+  "17.3.5": {
+    "tag": "17.3.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.0
+  },
+  "17.3.6": {
+    "tag": "17.3.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 172.2
+  },
+  "17.3.7": {
+    "tag": "17.3.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.3.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.0
+  },
+  "17.4.0": {
+    "tag": "17.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.4
+  },
+  "17.4.1": {
+    "tag": "17.4.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.4.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 173.1
+  },
+  "17.4.2": {
+    "tag": "17.4.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.4.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 153.0
+  },
+  "17.4.3": {
+    "tag": "17.4.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.4.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 174.1
+  },
+  "17.4.4": {
+    "tag": "17.4.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.4.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 172.4
+  },
+  "17.4.5": {
+    "tag": "17.4.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.4.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 172.9
+  },
+  "17.4.6": {
+    "tag": "17.4.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.4.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 162.1
+  },
+  "17.5.0": {
+    "tag": "17.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 156.9
+  },
+  "17.5.1": {
+    "tag": "17.5.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.5.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.1
+  },
+  "17.5.2": {
+    "tag": "17.5.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.5.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.3
+  },
+  "17.5.3": {
+    "tag": "17.5.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.5.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 187.8
+  },
+  "17.5.4": {
+    "tag": "17.5.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.5.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 543.2
+  },
+  "17.5.5": {
+    "tag": "17.5.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.5.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 156.3
+  },
+  "17.6.0": {
+    "tag": "17.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 192.9
+  },
+  "17.6.1": {
+    "tag": "17.6.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.6.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.4
+  },
+  "17.6.2": {
+    "tag": "17.6.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.6.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.5
+  },
+  "17.6.3": {
+    "tag": "17.6.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.6.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.0
+  },
+  "17.6.4": {
+    "tag": "17.6.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.6.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 180.8
+  },
+  "17.6.5": {
+    "tag": "17.6.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.6.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 168.8
+  },
+  "17.7.0": {
+    "tag": "17.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.4
+  },
+  "17.7.1": {
+    "tag": "17.7.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.7.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 199.3
+  },
+  "17.7.2": {
+    "tag": "17.7.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.7.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.5
+  },
+  "17.7.3": {
+    "tag": "17.7.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.7.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.9
+  },
+  "17.7.4": {
+    "tag": "17.7.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.7.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 175.0
+  },
+  "17.7.6": {
+    "tag": "17.7.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.7.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.7
+  },
+  "17.7.7": {
+    "tag": "17.7.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.7.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.8
+  },
+  "17.8.0": {
+    "tag": "17.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.6
+  },
+  "17.8.1": {
+    "tag": "17.8.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.8.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 170.1
+  },
+  "17.8.2": {
+    "tag": "17.8.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.8.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 229.6
+  },
+  "17.8.4": {
+    "tag": "17.8.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.8.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 203.8
+  },
+  "17.8.5": {
+    "tag": "17.8.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.8.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.0
+  },
+  "17.8.6": {
+    "tag": "17.8.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.8.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.3
+  },
+  "17.8.7": {
+    "tag": "17.8.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.8.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 181.0
+  },
+  "17.9.0": {
+    "tag": "17.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.8
+  },
+  "17.9.1": {
+    "tag": "17.9.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.2
+  },
+  "17.9.2": {
+    "tag": "17.9.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.5
+  },
+  "17.9.3": {
+    "tag": "17.9.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.1
+  },
+  "17.9.5": {
+    "tag": "17.9.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 218.2
+  },
+  "17.9.6": {
+    "tag": "17.9.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.3
+  },
+  "17.9.7": {
+    "tag": "17.9.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.8
+  },
+  "17.9.8": {
+    "tag": "17.9.8-ce.0",
+    "image": "gitlab/gitlab-ce:17.9.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.7
+  },
+  "17.10.0": {
+    "tag": "17.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 190.3
+  },
+  "17.10.1": {
+    "tag": "17.10.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.5
+  },
+  "17.10.3": {
+    "tag": "17.10.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.1
+  },
+  "17.10.4": {
+    "tag": "17.10.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 175.9
+  },
+  "17.10.5": {
+    "tag": "17.10.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 201.3
+  },
+  "17.10.6": {
+    "tag": "17.10.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 181.0
+  },
+  "17.10.7": {
+    "tag": "17.10.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.6
+  },
+  "17.10.8": {
+    "tag": "17.10.8-ce.0",
+    "image": "gitlab/gitlab-ce:17.10.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 168.7
+  },
+  "17.11.0": {
+    "tag": "17.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 176.5
+  },
+  "17.11.1": {
+    "tag": "17.11.1-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 181.9
+  },
+  "17.11.2": {
+    "tag": "17.11.2-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 170.2
+  },
+  "17.11.3": {
+    "tag": "17.11.3-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.9
+  },
+  "17.11.4": {
+    "tag": "17.11.4-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.4
+  },
+  "17.11.5": {
+    "tag": "17.11.5-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 181.0
+  },
+  "17.11.6": {
+    "tag": "17.11.6-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 176.0
+  },
+  "17.11.7": {
+    "tag": "17.11.7-ce.0",
+    "image": "gitlab/gitlab-ce:17.11.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.0
+  },
+  "18.0.0": {
+    "tag": "18.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.4
+  },
+  "18.0.1": {
+    "tag": "18.0.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.0.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 181.3
+  },
+  "18.0.2": {
+    "tag": "18.0.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.0.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 233.5
+  },
+  "18.0.3": {
+    "tag": "18.0.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.0.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 178.6
+  },
+  "18.0.4": {
+    "tag": "18.0.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.0.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.5
+  },
+  "18.0.5": {
+    "tag": "18.0.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.0.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 191.3
+  },
+  "18.0.6": {
+    "tag": "18.0.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.0.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.8
+  },
+  "18.1.0": {
+    "tag": "18.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 180.7
+  },
+  "18.1.1": {
+    "tag": "18.1.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.1.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.0
+  },
+  "18.1.2": {
+    "tag": "18.1.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.1.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.9
+  },
+  "18.1.3": {
+    "tag": "18.1.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.1.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.2
+  },
+  "18.1.4": {
+    "tag": "18.1.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.1.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.0
+  },
+  "18.1.5": {
+    "tag": "18.1.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.1.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 190.6
+  },
+  "18.1.6": {
+    "tag": "18.1.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.1.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.6
+  },
+  "18.2.0": {
+    "tag": "18.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 168.6
+  },
+  "18.2.1": {
+    "tag": "18.2.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.3
+  },
+  "18.2.2": {
+    "tag": "18.2.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.4
+  },
+  "18.2.4": {
+    "tag": "18.2.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 107.0
+  },
+  "18.2.5": {
+    "tag": "18.2.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 175.0
+  },
+  "18.2.6": {
+    "tag": "18.2.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.4
+  },
+  "18.2.7": {
+    "tag": "18.2.7-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 187.8
+  },
+  "18.2.8": {
+    "tag": "18.2.8-ce.0",
+    "image": "gitlab/gitlab-ce:18.2.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.8
+  },
+  "18.3.0": {
+    "tag": "18.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.4
+  },
+  "18.3.1": {
+    "tag": "18.3.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.3.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.5
+  },
+  "18.3.2": {
+    "tag": "18.3.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.3.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.0
+  },
+  "18.3.3": {
+    "tag": "18.3.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.3.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.9
+  },
+  "18.3.4": {
+    "tag": "18.3.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.3.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 389.1
+  },
+  "18.3.5": {
+    "tag": "18.3.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.3.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.9
+  },
+  "18.3.6": {
+    "tag": "18.3.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.3.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.9
+  },
+  "18.4.0": {
+    "tag": "18.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.9
+  },
+  "18.4.1": {
+    "tag": "18.4.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.4.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 195.7
+  },
+  "18.4.2": {
+    "tag": "18.4.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.4.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.4
+  },
+  "18.4.3": {
+    "tag": "18.4.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.4.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.7
+  },
+  "18.4.4": {
+    "tag": "18.4.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.4.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 172.9
+  },
+  "18.4.5": {
+    "tag": "18.4.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.4.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.1
+  },
+  "18.4.6": {
+    "tag": "18.4.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.4.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 181.5
+  },
+  "18.5.0": {
+    "tag": "18.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 173.8
+  },
+  "18.5.1": {
+    "tag": "18.5.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.5.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.9
+  },
+  "18.5.2": {
+    "tag": "18.5.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.5.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.5
+  },
+  "18.5.3": {
+    "tag": "18.5.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.5.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.3
+  },
+  "18.5.4": {
+    "tag": "18.5.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.5.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.7
+  },
+  "18.5.5": {
+    "tag": "18.5.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.5.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 173.7
+  },
+  "18.5.7": {
+    "tag": "18.5.7-ce.0",
+    "image": "gitlab/gitlab-ce:18.5.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.8
+  },
+  "18.6.0": {
+    "tag": "18.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.8
+  },
+  "18.6.1": {
+    "tag": "18.6.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.3
+  },
+  "18.6.2": {
+    "tag": "18.6.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.8
+  },
+  "18.6.3": {
+    "tag": "18.6.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 197.8
+  },
+  "18.6.4": {
+    "tag": "18.6.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 193.0
+  },
+  "18.6.5": {
+    "tag": "18.6.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.9
+  },
+  "18.6.6": {
+    "tag": "18.6.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 178.2
+  },
+  "18.6.8": {
+    "tag": "18.6.8-ce.0",
+    "image": "gitlab/gitlab-ce:18.6.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 195.4
+  },
+  "18.7.0": {
+    "tag": "18.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 202.0
+  },
+  "18.7.1": {
+    "tag": "18.7.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 194.4
+  },
+  "18.7.2": {
+    "tag": "18.7.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.7
+  },
+  "18.7.3": {
+    "tag": "18.7.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 195.0
+  },
+  "18.7.4": {
+    "tag": "18.7.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 178.1
+  },
+  "18.7.5": {
+    "tag": "18.7.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.9
+  },
+  "18.7.6": {
+    "tag": "18.7.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.5
+  },
+  "18.7.7": {
+    "tag": "18.7.7-ce.0",
+    "image": "gitlab/gitlab-ce:18.7.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.4
+  },
+  "18.8.0": {
+    "tag": "18.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.3
+  },
+  "18.8.1": {
+    "tag": "18.8.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.2
+  },
+  "18.8.2": {
+    "tag": "18.8.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 196.8
+  },
+  "18.8.3": {
+    "tag": "18.8.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 179.0
+  },
+  "18.8.4": {
+    "tag": "18.8.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 173.1
+  },
+  "18.8.5": {
+    "tag": "18.8.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 198.8
+  },
+  "18.8.6": {
+    "tag": "18.8.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 192.2
+  },
+  "18.8.7": {
+    "tag": "18.8.7-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 178.1
+  },
+  "18.8.9": {
+    "tag": "18.8.9-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 173.0
+  },
+  "18.8.10": {
+    "tag": "18.8.10-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 180.9
+  },
+  "18.8.11": {
+    "tag": "18.8.11-ce.0",
+    "image": "gitlab/gitlab-ce:18.8.11-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.0
+  },
+  "18.9.0": {
+    "tag": "18.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 190.7
+  },
+  "18.9.1": {
+    "tag": "18.9.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.9
+  },
+  "18.9.2": {
+    "tag": "18.9.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.9
+  },
+  "18.9.3": {
+    "tag": "18.9.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 196.4
+  },
+  "18.9.5": {
+    "tag": "18.9.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 195.9
+  },
+  "18.9.6": {
+    "tag": "18.9.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 191.9
+  },
+  "18.9.7": {
+    "tag": "18.9.7-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.7
+  },
+  "18.9.8": {
+    "tag": "18.9.8-ce.0",
+    "image": "gitlab/gitlab-ce:18.9.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.6
+  },
+  "18.10.0": {
+    "tag": "18.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.4
+  },
+  "18.10.1": {
+    "tag": "18.10.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.2
+  },
+  "18.10.3": {
+    "tag": "18.10.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 198.3
+  },
+  "18.10.4": {
+    "tag": "18.10.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 196.3
+  },
+  "18.10.5": {
+    "tag": "18.10.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 198.1
+  },
+  "18.10.6": {
+    "tag": "18.10.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.9
+  },
+  "18.10.7": {
+    "tag": "18.10.7-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 196.3
+  },
+  "18.10.8": {
+    "tag": "18.10.8-ce.0",
+    "image": "gitlab/gitlab-ce:18.10.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.8
+  },
+  "18.11.0": {
+    "tag": "18.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.9
+  },
+  "18.11.1": {
+    "tag": "18.11.1-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 175.6
+  },
+  "18.11.2": {
+    "tag": "18.11.2-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 197.9
+  },
+  "18.11.3": {
+    "tag": "18.11.3-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 183.7
+  },
+  "18.11.4": {
+    "tag": "18.11.4-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 199.5
+  },
+  "18.11.5": {
+    "tag": "18.11.5-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 194.8
+  },
+  "18.11.6": {
+    "tag": "18.11.6-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 192.7
+  },
+  "18.11.7": {
+    "tag": "18.11.7-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 175.4
+  },
+  "18.11.8": {
+    "tag": "18.11.8-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 199.2
+  },
+  "18.11.9": {
+    "tag": "18.11.9-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.3
+  },
+  "18.11.11": {
+    "tag": "18.11.11-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.11-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 187.2
+  },
+  "18.11.12": {
+    "tag": "18.11.12-ce.0",
+    "image": "gitlab/gitlab-ce:18.11.12-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 180.7
+  },
+  "19.0.0": {
+    "tag": "19.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 172.4
+  },
+  "19.0.1": {
+    "tag": "19.0.1-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 178.6
+  },
+  "19.0.2": {
+    "tag": "19.0.2-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.8
+  },
+  "19.0.3": {
+    "tag": "19.0.3-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 187.9
+  },
+  "19.0.4": {
+    "tag": "19.0.4-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.7
+  },
+  "19.0.5": {
+    "tag": "19.0.5-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.4
+  },
+  "19.0.6": {
+    "tag": "19.0.6-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 177.4
+  },
+  "19.0.8": {
+    "tag": "19.0.8-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 178.5
+  },
+  "19.0.9": {
+    "tag": "19.0.9-ce.0",
+    "image": "gitlab/gitlab-ce:19.0.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 185.5
+  },
+  "19.1.0": {
+    "tag": "19.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.7
+  },
+  "19.1.1": {
+    "tag": "19.1.1-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.8
+  },
+  "19.1.2": {
+    "tag": "19.1.2-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 192.9
+  },
+  "19.1.3": {
+    "tag": "19.1.3-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 193.1
+  },
+  "19.1.4": {
+    "tag": "19.1.4-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 189.5
+  },
+  "19.1.6": {
+    "tag": "19.1.6-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 187.5
+  },
+  "19.1.7": {
+    "tag": "19.1.7-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 194.4
+  },
+  "19.1.8": {
+    "tag": "19.1.8-ce.0",
+    "image": "gitlab/gitlab-ce:19.1.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.6
+  },
+  "19.2.0": {
+    "tag": "19.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:19.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 194.8
+  },
+  "19.2.1": {
+    "tag": "19.2.1-ce.0",
+    "image": "gitlab/gitlab-ce:19.2.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 184.8
+  },
+  "19.2.2": {
+    "tag": "19.2.2-ce.0",
+    "image": "gitlab/gitlab-ce:19.2.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 190.1
+  },
+  "16.0.0": {
+    "tag": "16.0.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.0
+  },
+  "16.0.1": {
+    "tag": "16.0.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.8
+  },
+  "16.0.2": {
+    "tag": "16.0.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 153.9
+  },
+  "16.0.3": {
+    "tag": "16.0.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.7
+  },
+  "16.0.4": {
+    "tag": "16.0.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.6
+  },
+  "16.0.5": {
+    "tag": "16.0.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.6
+  },
+  "16.0.6": {
+    "tag": "16.0.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 155.9
+  },
+  "16.0.7": {
+    "tag": "16.0.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.8
+  },
+  "16.0.8": {
+    "tag": "16.0.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.6
+  },
+  "16.0.9": {
+    "tag": "16.0.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 204.0
+  },
+  "16.0.10": {
+    "tag": "16.0.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.0.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 154.8
+  },
+  "16.1.0": {
+    "tag": "16.1.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 154.4
+  },
+  "16.1.1": {
+    "tag": "16.1.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.3
+  },
+  "16.1.2": {
+    "tag": "16.1.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 159.4
+  },
+  "16.1.3": {
+    "tag": "16.1.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.3
+  },
+  "16.1.4": {
+    "tag": "16.1.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.3
+  },
+  "16.1.5": {
+    "tag": "16.1.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 154.8
+  },
+  "16.1.6": {
+    "tag": "16.1.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 214.8
+  },
+  "16.1.7": {
+    "tag": "16.1.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.4
+  },
+  "16.1.8": {
+    "tag": "16.1.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.1.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.4
+  },
+  "16.2.0": {
+    "tag": "16.2.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.9
+  },
+  "16.2.1": {
+    "tag": "16.2.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 205.2
+  },
+  "16.2.2": {
+    "tag": "16.2.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.6
+  },
+  "16.2.3": {
+    "tag": "16.2.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.1
+  },
+  "16.2.4": {
+    "tag": "16.2.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.1
+  },
+  "16.2.5": {
+    "tag": "16.2.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.4
+  },
+  "16.2.6": {
+    "tag": "16.2.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.2
+  },
+  "16.2.7": {
+    "tag": "16.2.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 203.6
+  },
+  "16.2.8": {
+    "tag": "16.2.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.0
+  },
+  "16.2.9": {
+    "tag": "16.2.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 159.7
+  },
+  "16.2.10": {
+    "tag": "16.2.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.7
+  },
+  "16.2.11": {
+    "tag": "16.2.11-ce.0",
+    "image": "gitlab/gitlab-ce:16.2.11-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.2
+  },
+  "16.3.0": {
+    "tag": "16.3.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 144.3
+  },
+  "16.3.1": {
+    "tag": "16.3.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.6
+  },
+  "16.3.2": {
+    "tag": "16.3.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.1
+  },
+  "16.3.3": {
+    "tag": "16.3.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 167.8
+  },
+  "16.3.4": {
+    "tag": "16.3.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.4
+  },
+  "16.3.5": {
+    "tag": "16.3.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.5
+  },
+  "16.3.6": {
+    "tag": "16.3.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 159.0
+  },
+  "16.3.7": {
+    "tag": "16.3.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 139.5
+  },
+  "16.3.8": {
+    "tag": "16.3.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.1
+  },
+  "16.3.9": {
+    "tag": "16.3.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.3.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 144.1
+  },
+  "16.4.0": {
+    "tag": "16.4.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 144.8
+  },
+  "16.4.1": {
+    "tag": "16.4.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.6
+  },
+  "16.4.2": {
+    "tag": "16.4.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.2
+  },
+  "16.4.3": {
+    "tag": "16.4.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.1
+  },
+  "16.4.4": {
+    "tag": "16.4.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.7
+  },
+  "16.4.5": {
+    "tag": "16.4.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 162.7
+  },
+  "16.4.6": {
+    "tag": "16.4.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.3
+  },
+  "16.4.7": {
+    "tag": "16.4.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.4.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.8
+  },
+  "16.5.0": {
+    "tag": "16.5.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 145.1
+  },
+  "16.5.1": {
+    "tag": "16.5.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 159.4
+  },
+  "16.5.2": {
+    "tag": "16.5.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 156.6
+  },
+  "16.5.3": {
+    "tag": "16.5.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 159.8
+  },
+  "16.5.4": {
+    "tag": "16.5.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.0
+  },
+  "16.5.6": {
+    "tag": "16.5.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 1277.3
+  },
+  "16.5.7": {
+    "tag": "16.5.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 169.2
+  },
+  "16.5.8": {
+    "tag": "16.5.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 169.4
+  },
+  "16.5.9": {
+    "tag": "16.5.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.0
+  },
+  "16.5.10": {
+    "tag": "16.5.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.5.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.1
+  },
+  "16.6.0": {
+    "tag": "16.6.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 155.9
+  },
+  "16.6.1": {
+    "tag": "16.6.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.9
+  },
+  "16.6.2": {
+    "tag": "16.6.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.7
+  },
+  "16.6.4": {
+    "tag": "16.6.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.2
+  },
+  "16.6.5": {
+    "tag": "16.6.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 168.6
+  },
+  "16.6.6": {
+    "tag": "16.6.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 156.6
+  },
+  "16.6.7": {
+    "tag": "16.6.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 187.4
+  },
+  "16.6.8": {
+    "tag": "16.6.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.3
+  },
+  "16.6.9": {
+    "tag": "16.6.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.7
+  },
+  "16.6.10": {
+    "tag": "16.6.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.6.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.0
+  },
+  "16.7.0": {
+    "tag": "16.7.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 154.6
+  },
+  "16.7.2": {
+    "tag": "16.7.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 188.9
+  },
+  "16.7.3": {
+    "tag": "16.7.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 171.2
+  },
+  "16.7.4": {
+    "tag": "16.7.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 169.3
+  },
+  "16.7.5": {
+    "tag": "16.7.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 158.7
+  },
+  "16.7.6": {
+    "tag": "16.7.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.3
+  },
+  "16.7.7": {
+    "tag": "16.7.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.2
+  },
+  "16.7.8": {
+    "tag": "16.7.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.7
+  },
+  "16.7.9": {
+    "tag": "16.7.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 176.5
+  },
+  "16.7.10": {
+    "tag": "16.7.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.7.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 154.7
+  },
+  "16.8.0": {
+    "tag": "16.8.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 155.8
+  },
+  "16.8.1": {
+    "tag": "16.8.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.4
+  },
+  "16.8.2": {
+    "tag": "16.8.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.3
+  },
+  "16.8.3": {
+    "tag": "16.8.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.4
+  },
+  "16.8.4": {
+    "tag": "16.8.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.2
+  },
+  "16.8.5": {
+    "tag": "16.8.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 171.1
+  },
+  "16.8.6": {
+    "tag": "16.8.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.0
+  },
+  "16.8.7": {
+    "tag": "16.8.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 182.3
+  },
+  "16.8.8": {
+    "tag": "16.8.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 169.8
+  },
+  "16.8.9": {
+    "tag": "16.8.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.0
+  },
+  "16.8.10": {
+    "tag": "16.8.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.8.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.0
+  },
+  "16.9.0": {
+    "tag": "16.9.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.7
+  },
+  "16.9.1": {
+    "tag": "16.9.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.3
+  },
+  "16.9.2": {
+    "tag": "16.9.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.3
+  },
+  "16.9.3": {
+    "tag": "16.9.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.2
+  },
+  "16.9.4": {
+    "tag": "16.9.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.7
+  },
+  "16.9.5": {
+    "tag": "16.9.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.7
+  },
+  "16.9.6": {
+    "tag": "16.9.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 168.4
+  },
+  "16.9.7": {
+    "tag": "16.9.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.7-ce.0",
+    "detail": "9+00:00] INFO: Storing updated cookbooks/acme/LICENSE in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/libraries/crond_helper.rb in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/acme/README.md in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/acme/templates/acme-challange.nginx.erb in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/resources/job.rb in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/recipes/disable.rb in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/recipes/enable.rb in the cache.\n  [2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/templates/default/sv-crond-run.erb in the cache.\n- acme (4.1.6)\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/templates/default/sv-crond-log-run.erb in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/templates/default/sv-crond-log-config.erb in the cache.\n[2026-09-26T21:34:29+00:00] INFO: Storing updated cookbooks/crond/metadata.rb in the cache.\n  - crond (0.1.0)\nInstalling cookbook gem dependencies:\nCompiling cookbooks...\n\nRunning handlers:\n[2026-09-26T21:34:29+00:00] ERROR: Running exception handlers\nRunning handlers complete\n[2026-09-26T21:34:29+00:00] ERROR: Exception handlers complete\nInfra Phase failed. 0 resources updated in 01 seconds\n[2026-09-26T21:34:29+00:00] FATAL: NameError: uninitialized constant Parser::AST::Processor::Mixin\n\n        include Parser::AST::Processor::Mixin\n                                      ^^^^^^^\nDid you mean?  Mixlib\n/opt/gitlab/embedded/cookbooks/cache/cookbooks/package/libraries/helpers/selinux_distro_helper.rb:2: warning: already initialized constant SELinuxDistroHelper::REDHAT_RELEASE_FILE\n/opt/gitlab/embedded/cookbooks/package/libraries/helpers/selinux_distro_helper.rb:2: warning: previous definition of REDHAT_RELEASE_FILE was here\n/opt/gitlab/embedded/cookbooks/cache/cookbooks/package/libraries/helpers/selinux_distro_helper.rb:3: warning: already initialized constant SELinuxDistroHelper::OS_RELEASE_FILE\n/opt/gitlab/embedded/cookbooks/package/libraries/helpers/selinux_distro_helper.rb:3: warning: previous definition of OS_RELEASE_FILE was here\n/opt/gitlab/embedded/cookbooks/cache/cookbooks/package/libraries/helpers/secrets_helper.rb:4: warning: already initialized constant SecretsHelper::SECRETS_FILE\n/opt/gitlab/embedded/cookbooks/package/libraries/helpers/secrets_helper.rb:4: warning: previous definition of SECRETS_FILE was here\n/opt/gitlab/embedded/cookbooks/cache/cookbooks/package/libraries/helpers/secrets_helper.rb:5: warning: already initialized constant SecretsHelper::SECRETS_FILE_CHEF_ATTR\n/opt/gitlab/embedded/cookbooks/package/libraries/helpers/secrets_helper.rb:5: warning: previous definition of SECRETS_FILE_CHEF_ATTR was here\n/opt/gitlab/embedded/cookbooks/cache/cookbooks/package/libraries/helpers/secrets_helper.rb:6: warning: already initialized constant SecretsHelper::SKIP_GENERATE_SECRETS_CHEF_ATTR\n/opt/gitlab/embedded/cookbooks/package/libraries/helpers/secrets_helper.rb:6: warning: previous definition of SKIP_GENERATE_SECRETS_CHEF_ATTR was here\n/opt/gitlab/embedded/cookbooks/cache/cookbooks/package/libraries/gitlab_cluster.rb:16: warning: already initialized constant GitlabCluster::CONFIG_PATH\n/opt/gitlab/embedded/cookbooks/package/libraries/gitlab_cluster.rb:16: warning: previous definition of CONFIG_PATH was here\n/opt/gitlab/embedded/cookbooks/cache/cookbooks/package/libraries/gitlab_cluster.rb:17: warning: already initialized constant GitlabCluster::JSON_FILE\n/opt/gitlab/embedded/cookbooks/package/libraries/gitlab_cluster.rb:17: warning: previous definition of JSON_FILE was here\nThere was an error running gitlab-ctl reconfigure:\n\nuninitialized constant Parser::AST::Processor::Mixin\n\n        include Parser::AST::Processor::Mixin\n                                      ^^^^^^^\nDid you mean?  Mixlib\n\n",
+    "status": "container_exited",
+    "http_status": null,
+    "elapsed_seconds": 71.1
+  },
+  "16.9.8": {
+    "tag": "16.9.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.9
+  },
+  "16.9.9": {
+    "tag": "16.9.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 163.9
+  },
+  "16.9.11": {
+    "tag": "16.9.11-ce.0",
+    "image": "gitlab/gitlab-ce:16.9.11-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 168.6
+  },
+  "16.10.0": {
+    "tag": "16.10.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.6
+  },
+  "16.10.1": {
+    "tag": "16.10.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.0
+  },
+  "16.10.2": {
+    "tag": "16.10.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.1
+  },
+  "16.10.3": {
+    "tag": "16.10.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.8
+  },
+  "16.10.4": {
+    "tag": "16.10.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 152.4
+  },
+  "16.10.5": {
+    "tag": "16.10.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.7
+  },
+  "16.10.6": {
+    "tag": "16.10.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 165.8
+  },
+  "16.10.7": {
+    "tag": "16.10.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.0
+  },
+  "16.10.8": {
+    "tag": "16.10.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 173.8
+  },
+  "16.10.9": {
+    "tag": "16.10.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.6
+  },
+  "16.10.10": {
+    "tag": "16.10.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.10.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 166.0
+  },
+  "16.11.0": {
+    "tag": "16.11.0-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.0-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 157.8
+  },
+  "16.11.1": {
+    "tag": "16.11.1-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.1-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.7
+  },
+  "16.11.2": {
+    "tag": "16.11.2-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.2-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 159.9
+  },
+  "16.11.3": {
+    "tag": "16.11.3-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.3-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 162.4
+  },
+  "16.11.4": {
+    "tag": "16.11.4-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.4-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 186.6
+  },
+  "16.11.5": {
+    "tag": "16.11.5-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.5-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.9
+  },
+  "16.11.6": {
+    "tag": "16.11.6-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.6-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.0
+  },
+  "16.11.7": {
+    "tag": "16.11.7-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.7-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 161.3
+  },
+  "16.11.8": {
+    "tag": "16.11.8-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.8-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 164.6
+  },
+  "16.11.9": {
+    "tag": "16.11.9-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.9-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 160.0
+  },
+  "16.11.10": {
+    "tag": "16.11.10-ce.0",
+    "image": "gitlab/gitlab-ce:16.11.10-ce.0",
+    "status": "ok",
+    "http_status": 200,
+    "elapsed_seconds": 151.7
+  }
+}
