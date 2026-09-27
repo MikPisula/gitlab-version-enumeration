@@ -99,9 +99,20 @@ patch level down to a small, explicit set of candidates instead of leaving you w
 
 ## Comparison to existing tools
 
-I was only able to identify one tool that tackled the isssue of identifying the running GitLab version, i.e. https://github.com/righel/gitlab-version-nse. This script however relies on calculating a hash of the entire sign-in page (without random strings such as CSRF/authenticity tokens).
+I was only able to identify one other tool that tackles the issue of identifying the running GitLab version: https://github.com/righel/gitlab-version-nse, an Nmap NSE script. It does not hash the entire sign-in page. Instead it uses two signals, in order:
 
-This is less reliable, as any injected scripts or similar changes to the returned HTML response will directly impact the hash. This tool will work as long as there's `<link>` or `<script>` tag in the response, and even when some of them have been modified/customised.
+1. A `gon.revision` value embedded in the sign-in page - the exact git commit hash of the build, when present.
+2. A fallback to the single aggregate hash from `/assets/webpack/manifest.json`.
+
+The commit-hash signal is very precise (under 1% ambiguity in their dataset), but GitLab stopped embedding `gon.revision` on the sign-in page after around version 12.5, so it only applies to instances from 2019 or earlier. Every modern instance falls back to the single webpack manifest hash, which has a similar ambiguity rate to the per-file approach used here - collapsing multiple releases into one match whenever none of them changed a compiled asset, the same limitation described above.
+
+Where this tool differs in practice:
+
+- It works fully offline once the hash dataset is downloaded. The NSE script fetches its hash map fresh from GitHub on every single scan, which is a live external dependency during a scan and won't work in air-gapped environments.
+- It cross-references many asset filenames rather than a single hash value, so partial interference (a WAF stripping some tags) degrades the result gracefully instead of failing outright.
+- The `--file` mode lets you bypass CDN/WAF/bot protection entirely by supplying an already-downloaded page.
+
+Where the NSE script has genuine advantages: it plugs directly into `nmap` scans, it can look up CVEs for a matched version via the Vulners API, and - for pre-12.6 instances specifically - its commit-hash matching is more precise than what this tool currently offers, since patch-level hashes here are only tracked from 16.x onward.
 
 ## Will GitLab EE also be included
 
