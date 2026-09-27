@@ -97,6 +97,12 @@ In practice, when the tool reports multiple matching releases, treat it the same
 advisory scoped to a version range - you know the minor version for certain, and the result narrows the
 patch level down to a small, explicit set of candidates instead of leaving you with nothing.
 
+## Comparison to existing tools
+
+I was only able to identify one tool that tackled the isssue of identifying the running GitLab version, i.e. https://github.com/righel/gitlab-version-nse. This script however relies on calculating a hash of the entire sign-in page (without random strings such as CSRF/authenticity tokens).
+
+This is less reliable, as any injected scripts or similar changes to the returned HTML response will directly impact the hash. This tool will work as long as there's `<link>` or `<script>` tag in the response, and even when some of them have been modified/customised.
+
 ## Will GitLab EE also be included
 
 I've currently created this tool to gauge if there is significant interest in this area. If it proves to be something that others would also find helpful,
